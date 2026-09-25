@@ -17,8 +17,8 @@
     <a href="mailto:hritikkumarpd@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://hritikkumarpd.github.io" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+    <a href="https://dailyresumeai.online" target="_blank">
+      <img src="https://img.shields.io/badge/ResumeAI_Pro-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ResumeAI Pro" />
     </a>
     <a href="https://github.com/hritikkumarpd?tab=repositories">
       <img src="https://img.shields.io/badge/GitHub_Projects-24292E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects" />
@@ -37,30 +37,29 @@
 
 ```yaml
 name: Hritik Kumar
-current_focus: Building Scalable AI-driven Web Platforms & Developer Automation Tools
+current_focus: Building Scalable AI-driven Web Platforms & Full-Stack Systems
 education: B.Tech in Computer Science & Engineering (2022 – 2026)
 institution: Techno Main Salt Lake, Kolkata, India
 core_interests: [Full-Stack Architecture, Generative AI, System Performance, Open Source]
 status: 🎯 Open to Software Engineering internships & full-stack opportunities
 ```
 
-- 🎓 **Academics**: Final year Computer Science undergraduate at **Techno Main Salt Lake, Kolkata** (Graduating 2026).
-- 🚀 **Currently Building**: Advanced AI automation engines, developer productivity platforms, and interactive full-stack web applications.
-- 💡 **Core Competencies**: Modern JavaScript/TypeScript ecosystems, high-efficiency Node.js microservices, React/Next.js frontend design, and Baileys / WebSocket protocols.
-- 💬 **Ask me about**: **React, Next.js, Node.js, Express, TypeScript, REST & WebSockets, Database Modeling, and C++ Data Structures**.
+- 🎓 **Academics**: Computer Science & Engineering undergraduate at **Techno Main Salt Lake, Kolkata** (Graduating 2026).
+- 🚀 **Featured Platform**: Creator of [ResumeAI Pro](https://dailyresumeai.online) — Next-Gen AI Resume & Career Intelligence SaaS platform powered by Google Gemini AI.
+- 💡 **Core Competencies**: Modern JavaScript/TypeScript ecosystems, high-efficiency Node.js microservices, React UI design, and Baileys / WebSocket protocols.
+- 💬 **Ask me about**: **React, Node.js, Express, TypeScript, REST & WebSockets, Supabase, Database Modeling, and C++ Data Structures**.
 - 📫 **Contact**: [hritikkumarpd@gmail.com](mailto:hritikkumarpd@gmail.com) | [LinkedIn](https://linkedin.com/in/hritikkumarpd)
 
 ---
 
-### 🌟 Featured Open-Source Projects
+### 🌟 Featured Projects
 
 | Project | Tech Stack | Highlights | Links |
 | :--- | :--- | :--- | :--- |
+| ⚡ **ResumeAI Pro** | React 19, Vite, Tailwind CSS, Node.js, Express, Google Gemini AI, Supabase, Razorpay, PDF.js | Next-Gen AI Career Intelligence Suite. Features Gemini ATS Recruiter scoring (0–100), AI bullet polish (Google STAR method), role-specific cover letter generation, Razorpay subscriptions, and instant high-res PDF exports. | [🌐 Live Production Website](https://dailyresumeai.online/) |
 | 🤖 **[WhatsApp ChatBot](https://github.com/hritikkumarpd/whatsapp-chatbot)** | Node.js, Baileys MD, Google Gemini AI, React | Self-hosted WhatsApp AI Auto-Reply suite with pure WebSocket protocol. Runs 24/7 on Android (Termux), Windows, Linux, and Docker with <150MB RAM footprint. Built-in port liberation & terminal CLI. | [Repo](https://github.com/hritikkumarpd/whatsapp-chatbot) |
 | 📜 **[BulkCertifyX](https://github.com/hritikkumarpd/BulkCertifyX)** | React, JavaScript, Tailwind CSS, Vercel | Dynamic Bulk Certificate Generator & Verification Platform for institutions and conferences with QR validation and batch export. | [Repo](https://github.com/hritikkumarpd/BulkCertifyX) • [Live Demo](https://bulkcertifyx.vercel.app) |
-| 🎓 **[BPSC TRE Exam Platform](https://github.com/hritikkumarpd/bpsc-tre-exam-platform)** | TypeScript, Next.js, React, Vercel | Online mock examination and interactive question practice portal tailored for STET & BPSC TRE competitive aspirants. | [Repo](https://github.com/hritikkumarpd/bpsc-tre-exam-platform) • [Live Demo](https://bpsc-tre-mu.vercel.app/) |
 | 🎂 **[Automatic Birthday Wisher](https://github.com/hritikkumarpd/Automatic-Birthday-Wisher)** | Python, Automation, CSV Processing | Automated date-monitoring script that reads CSV records and schedules personalized celebratory emails and messages. | [Repo](https://github.com/hritikkumarpd/Automatic-Birthday-Wisher) |
-| 🌐 **[Developer Portfolio](https://github.com/hritikkumarpd/hritikkumarpd.github.io)** | HTML5, CSS3, Modern JavaScript | 30-Day Web Development Challenge hub and personal developer portfolio showcasing core web engineering fundamentals. | [Repo](https://github.com/hritikkumarpd/hritikkumarpd.github.io) • [Live Demo](https://hritikkumarpd.github.io/) |
 
 ---
 
@@ -82,7 +81,6 @@ status: 🎯 Open to Software Engineering internships & full-stack opportunities
 #### 🌐 Frontend Engineering
 <p>
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 </p>
@@ -135,10 +133,10 @@ status: 🎯 Open to Software Engineering internships & full-stack opportunities
 
 ### 🤝 Let's Connect & Collaborate!
 
-I'm always excited to collaborate on innovative open-source projects, discuss system design and AI workflows, or explore engineering opportunities.
+I'm always excited to collaborate on innovative projects, discuss system design and AI workflows, or explore engineering opportunities.
 
 - 💼 **LinkedIn**: [linkedin.com/in/hritikkumarpd](https://linkedin.com/in/hritikkumarpd)
-- 🌐 **Portfolio**: [hritikkumarpd.github.io](https://hritikkumarpd.github.io)
+- 🌐 **ResumeAI Pro**: [dailyresumeai.online](https://dailyresumeai.online)
 - ✉️ **Email**: [hritikkumarpd@gmail.com](mailto:hritikkumarpd@gmail.com)
 
 <div align="center">
