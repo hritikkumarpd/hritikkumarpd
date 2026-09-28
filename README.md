@@ -1,144 +1,118 @@
-<div align="center">
+# Hi, I'm Hritik Kumar 👋
 
-  <!-- Typing SVG Header -->
-  <a href="https://github.com/hritikkumarpd">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=34&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=750&height=70&lines=Hey+there!+I'm+Hritik+Kumar+👋;Full-Stack+Developer+%26+Software+Engineer+🚀;Building+Production+AI+Web+Applications+🤖;B.Tech+CSE+%40+Techno+Main+Salt+Lake+🎓" alt="Typing SVG" />
-  </a>
+**Full-Stack Developer & AI Systems Engineer** crafting production-ready web platforms, distributed SaaS backends, and applied Generative AI applications.
 
-  <p align="center">
-    <strong>Full-Stack Engineer & AI Systems Builder crafting high-performance, real-world web products.</strong><br>
-    Passionate about scalable architectures, developer automation, and applied Generative AI.
-  </p>
-
-  <p align="center">
-    <a href="https://linkedin.com/in/hritikkumarpd" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:hritikkumarpd@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://dailyresumeai.online" target="_blank">
-      <img src="https://img.shields.io/badge/ResumeAI_Pro-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ResumeAI Pro" />
-    </a>
-    <a href="https://github.com/hritikkumarpd?tab=repositories">
-      <img src="https://img.shields.io/badge/GitHub_Projects-24292E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects" />
-    </a>
-  </p>
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=hritikkumarpd&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views" />
-  </p>
-
-</div>
+Based in India · B.Tech in Computer Science & Engineering (2022 – 2026), Techno Main Salt Lake, Kolkata · Open to Software Engineering internships and full-stack developer opportunities.
 
 ---
 
-### 👨‍💻 About Me
+## What I Build
 
-```yaml
-name: Hritik Kumar
-current_focus: Building Scalable AI-driven Web Platforms & Full-Stack Systems
-education: B.Tech in Computer Science & Engineering (2022 – 2026)
-institution: Techno Main Salt Lake, Kolkata, India
-core_interests: [Full-Stack Architecture, Generative AI, System Performance, Open Source]
-status: 🎯 Open to Software Engineering internships & full-stack opportunities
-```
+I design and build end-to-end software systems across three primary domains:
 
-- 🎓 **Academics**: Computer Science & Engineering undergraduate at **Techno Main Salt Lake, Kolkata** (Graduating 2026).
-- 🚀 **Featured Platform**: Creator of [ResumeAI Pro](https://dailyresumeai.online) — Next-Gen AI Resume & Career Intelligence SaaS platform powered by Google Gemini AI.
-- 💡 **Core Competencies**: Modern JavaScript/TypeScript ecosystems, high-efficiency Node.js microservices, React UI design, and Baileys / WebSocket protocols.
-- 💬 **Ask me about**: **React, Node.js, Express, TypeScript, REST & WebSockets, Supabase, Database Modeling, and C++ Data Structures**.
-- 📫 **Contact**: [hritikkumarpd@gmail.com](mailto:hritikkumarpd@gmail.com) | [LinkedIn](https://linkedin.com/in/hritikkumarpd)
+- **AI-Powered SaaS Products**: Modern platforms integrating LLMs (Google Gemini) into real-world business workflows like automated ATS resume scoring, intelligent content generation, and smart auto-reply agents.
+- **Full-Stack Web Architectures**: High-performance single-page and server-rendered applications using React 19, Next.js 14, TypeScript, Node.js, and Tailwind CSS.
+- **Distributed Backend & Automation Systems**: Scalable REST APIs, asynchronous job processing with Redis and BullMQ, automated PDF compilation engines with Puppeteer, and WebSocket communication protocols.
 
 ---
 
-### 🌟 Featured Projects
+## Tech Stack
 
-| Project | Tech Stack | Highlights | Links |
-| :--- | :--- | :--- | :--- |
-| ⚡ **ResumeAI Pro** | React 19, Vite, Tailwind CSS, Node.js, Express, Google Gemini AI, Supabase, Razorpay, PDF.js | Next-Gen AI Career Intelligence Suite. Features Gemini ATS Recruiter scoring (0–100), AI bullet polish (Google STAR method), role-specific cover letter generation, Razorpay subscriptions, and instant high-res PDF exports. | [🌐 Live Production Website](https://dailyresumeai.online/) |
-| 🤖 **[WhatsApp ChatBot](https://github.com/hritikkumarpd/whatsapp-chatbot)** | Node.js, Baileys MD, Google Gemini AI, React | Self-hosted WhatsApp AI Auto-Reply suite with pure WebSocket protocol. Runs 24/7 on Android (Termux), Windows, Linux, and Docker with <150MB RAM footprint. Built-in port liberation & terminal CLI. | [Repo](https://github.com/hritikkumarpd/whatsapp-chatbot) |
-| 📜 **[BulkCertifyX](https://github.com/hritikkumarpd/BulkCertifyX)** | React, JavaScript, Tailwind CSS, Vercel | Dynamic Bulk Certificate Generator & Verification Platform for institutions and conferences with QR validation and batch export. | [Repo](https://github.com/hritikkumarpd/BulkCertifyX) • [Live Demo](https://bulkcertifyx.vercel.app) |
-| 🎂 **[Automatic Birthday Wisher](https://github.com/hritikkumarpd/Automatic-Birthday-Wisher)** | Python, Automation, CSV Processing | Automated date-monitoring script that reads CSV records and schedules personalized celebratory emails and messages. | [Repo](https://github.com/hritikkumarpd/Automatic-Birthday-Wisher) |
+### Frontend
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
----
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-CC0000?style=flat-square&logo=redis&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
 
-### 🛠️ Tech Stack & Skills
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-<div align="center">
+### AI / ML
+![Google Gemini](https://img.shields.io/badge/Google_Gemini_AI-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=flat-square&logo=openai&logoColor=white)
+![PDF.js ATS Parser](https://img.shields.io/badge/PDF.js_ATS_Parser-FF0000?style=flat-square&logo=adobeacrobatreader&logoColor=white)
 
-#### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
+### DevOps & Cloud
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-#### 🌐 Frontend Engineering
-<p>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-</p>
-
-#### ⚙️ Backend, AI & Real-Time
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Google_Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Baileys_MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Baileys MD" />
-</p>
-
-#### 🗄️ Databases & Cloud
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
-
-#### 🛠️ DevOps & Developer Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Android_Termux-000000?style=for-the-badge&logo=android&logoColor=white" alt="Termux" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
-
-</div>
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-0C2340?style=flat-square&logo=razorpay&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 📊 GitHub Activity & Metrics
+## Featured Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hritikkumarpd&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Hritik's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hritikkumarpd&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</div>
+### 1. [ResumeAI Pro](https://github.com/hritikkumarpd/resumeai-pro)
+**Next-Generation AI Resume Builder & ATS Career Intelligence Platform**
+- **Tech Stack**: React 19, Vite, Tailwind CSS, Node.js, Express, Supabase, Google Gemini AI, Puppeteer, Razorpay, PDF.js
+- **Key Functionality**: End-to-end career intelligence SaaS featuring 7-dimension ATS scoring (0–100), AI bullet polish following Google's STAR methodology, role-specific cover letter generation, client/server-side high-resolution PDF rendering, and Razorpay subscription tier gating.
+- **Repository**: [github.com/hritikkumarpd/resumeai-pro](https://github.com/hritikkumarpd/resumeai-pro)
+- **Live Demo**: [resumeaihritik.vercel.app](https://resumeaihritik.vercel.app) · [dailyresumeai.online](https://dailyresumeai.online)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hritikkumarpd&theme=radical&hide_border=true" alt="GitHub Streak" width="96%" />
-</p>
+### 2. [BulkCertifyX](https://github.com/hritikkumarpd/BulkCertifyX)
+**Multi-Tenant Bulk Certificate Automation & Verification Engine**
+- **Tech Stack**: React, Vite, Tailwind CSS, Node.js, Express, Supabase, BullMQ, Redis, Puppeteer, Socket.io, QR Code
+- **Key Functionality**: Distributed background certificate generation platform that ingests CSV datasets, dynamically renders thousands of high-resolution PDF certificates via headless Chromium workers, delivers personalized emails via Resend, and supports public authenticity validation via cryptographically verifiable QR codes.
+- **Repository**: [github.com/hritikkumarpd/BulkCertifyX](https://github.com/hritikkumarpd/BulkCertifyX)
+- **Live Demo**: [bulkcertifyx.vercel.app](https://bulkcertifyx.vercel.app)
+
+### 3. [BPSC TRE Exam Platform](https://github.com/hritikkumarpd/bpsc-tre-exam-platform)
+**Full-Stack Examination & Timed Mock Testing System**
+- **Tech Stack**: Next.js 14, React 18, TypeScript, Node.js, Express, MongoDB (Mongoose), JWT, Zod, Tailwind CSS
+- **Key Functionality**: Comprehensive examination portal for Bihar STET & BPSC TRE aspirants featuring genuine PYQs, scheduled 150-question timed mocks, real-time focus-loss anti-cheat detection (auto-cancels attempt after repeated tab switches), and granular performance analytics.
+- **Repository**: [github.com/hritikkumarpd/bpsc-tre-exam-platform](https://github.com/hritikkumarpd/bpsc-tre-exam-platform)
+- **Live Demo**: [bpsc-tre-mu.vercel.app](https://bpsc-tre-mu.vercel.app/)
+
+### 4. [WhatsApp AI ChatBot](https://github.com/hritikkumarpd/whatsapp-chatbot)
+**Self-Hosted, Lightweight WhatsApp Automation & Auto-Reply Suite**
+- **Tech Stack**: Node.js, Express, @whiskeysockets/baileys, Google Gemini AI, Socket.io, React (Vite dashboard), Docker
+- **Key Functionality**: Zero-subscription private WhatsApp bot engine operating over direct WebSocket protocol buffers (no heavy browser automation, <150MB RAM footprint). Features context-aware multilingual AI conversations via Google Gemini, live web dashboard for QR pairing and metrics, and automated deployment scripts for Linux, Windows, and Android Termux.
+- **Repository**: [github.com/hritikkumarpd/whatsapp-chatbot](https://github.com/hritikkumarpd/whatsapp-chatbot)
 
 ---
 
-### 🤝 Let's Connect & Collaborate!
+## Open Source
 
-I'm always excited to collaborate on innovative projects, discuss system design and AI workflows, or explore engineering opportunities.
+- **[whatsapp-chatbot](https://github.com/hritikkumarpd/whatsapp-chatbot)** — Free, open-source alternative to expensive proprietary WhatsApp SaaS tools with cross-platform 24/7 background execution.
+- **[Automatic-Birthday-Wisher](https://github.com/hritikkumarpd/Automatic-Birthday-Wisher)** — Zero-maintenance serverless birthday greeting automation leveraging GitHub Actions scheduled cron runners, Python, and Gmail SMTP.
+- **[30 Days of Web Development](https://github.com/hritikkumarpd/hritikkumarpd.github.io)** — Open collection of interactive vanilla JavaScript mini-projects (Virtual Piano, Currency Converter, Responsive School Portal) demonstrating fundamental DOM and API integration.
 
-- 💼 **LinkedIn**: [linkedin.com/in/hritikkumarpd](https://linkedin.com/in/hritikkumarpd)
-- 🌐 **ResumeAI Pro**: [dailyresumeai.online](https://dailyresumeai.online)
-- ✉️ **Email**: [hritikkumarpd@gmail.com](mailto:hritikkumarpd@gmail.com)
+---
 
-<div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/hritikkumarpd">Hritik Kumar</a></sub>
-</div>
+## Currently Building
+
+- **AutoPost AI**: Multi-platform social media scheduling and AI content automation platform built with modern React, Express microservices, and Supabase.
+- **ResumeAI Pro (v2.0)**: Expanding ATS keyword match intelligence and introducing automated LinkedIn profile gap analysis.
+
+---
+
+## Connect With Me
+
+- **LinkedIn**: [linkedin.com/in/hritikkumarpd](https://linkedin.com/in/hritikkumarpd)
+- **Email**: [hritikkumarpd@gmail.com](mailto:hritikkumarpd@gmail.com)
+- **GitHub**: [github.com/hritikkumarpd](https://github.com/hritikkumarpd)
+- **Web Portfolio**: [hritikkumarpd.github.io](https://hritikkumarpd.github.io/)
